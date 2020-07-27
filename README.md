@@ -1,8 +1,9 @@
-#configs
+# configs
+
 Repository for portable configurations.  This is a fun project.
 
-install.py:
-   Python script that performs the specified operation.  Currently, it can
-   do the following
-   - download latest source code from github for vim, compile and install a
-     portable version of vim at the specified location.
+## install.py:
+Python script that can
+- download the latest source code for **vim** from the official **github**  
+  repo, compile it and install a portable version of vim at the specified  
+  location.
